@@ -1,0 +1,3 @@
+import{o as n,d as a}from"./vue.esm-bundler-BQHuR-zz.js";import{_ as c}from"./_plugin-vue_export-helper-DlAUqK2U.js";const s={};function i(p,l){return n(),a("h1",null,"Hello!")}const m=c(s,[["render",i]]);s.__docgenInfo={displayName:"Greeting",description:"",tags:{},sourceFiles:["/Users/ERFRI/Repos/atea-component-library-vue/lib/components/Greeting.vue"]};const _={title:"components/Greeting",component:m,tags:["autodocs"]},e={args:{}};var o,r,t;e.parameters={...e.parameters,docs:{...(o=e.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {}
+}`,...(t=(r=e.parameters)==null?void 0:r.docs)==null?void 0:t.source}}};const f=["Default"];export{e as Default,f as __namedExportsOrder,_ as default};
